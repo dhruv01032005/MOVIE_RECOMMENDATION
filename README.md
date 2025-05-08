@@ -10,7 +10,7 @@ In this project I have used -
 
 1. Support(X) = No. of people watched Movie X / Total No. of people
 2. Confidence(X -> Y) = Support(X union Y) / Support(X)
-3. Lift(X -> Y) = Confidence(X - > Y) / Support(Y)
+3. Lift(X -> Y) = Confidence(X - > Y)
 
 ## References
 
